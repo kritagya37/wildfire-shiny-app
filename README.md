@@ -41,8 +41,10 @@ This application was built in R using the following packages:
 - leaflet  
 - readr  
 - scales
+- tidyr
   
 ---
+
 wildfire-shiny-app/
 ├── app.R
 ├── data/
@@ -85,20 +87,8 @@ Future versions of this application could include:
 
 ---
 
-## Author
 
-Developed as part of a wildfire analytics and spatial modeling project using R Shiny.
 
----
-
-## How to Run Locally
-
-1. Clone this repository  
-2. Open `app.R` in RStudio  
-3. Run:
-
-```r
-shiny::runApp()
 ---
 
 ## Project Structure
