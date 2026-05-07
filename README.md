@@ -6,8 +6,6 @@ Interactive Shiny dashboard for wildfire analysis in the United States using USF
 
 This R Shiny application explores wildfire activity across the United States using USDA/USFS fire incident data (Short, 2022). The goal of this project is to provide an interactive way to understand wildfire patterns over time, space, and severity.
 
-Short, Karen C. 2022. Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014]. 6th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.6
-
 Users can explore how wildfire risk varies across states, years, causes, and fire sizes. The dashboard integrates spatial visualization, temporal trends, and comparative analysis to support better understanding of wildfire dynamics.
 
 Key features include:
@@ -17,6 +15,9 @@ Key features include:
 - Seasonal and monthly wildfire patterns
 - State-level ranking of wildfire activity and severity
 - Cause-based breakdown of wildfire ignitions
+
+Reference:
+Short, Karen C. 2022. Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014]. 6th Edition. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2013-0009.6
 
 ---
 
