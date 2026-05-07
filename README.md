@@ -45,16 +45,6 @@ This application was built in R using the following packages:
   
 ---
 
-wildfire-shiny-app/
-├── app.R
-├── data/
-│ └── Fires_Short.csv
-├── www/
-├── README.md
-└── wildfire-shiny-app.Rproj
-
-
----
 
 ## Features
 
@@ -89,8 +79,18 @@ Future versions of this application could include:
 
 
 
+## Project Structure
+
 ---
 
-## Project Structure
+wildfire-shiny-app/
+│
+├── app.R
+├── data/
+│   └── Fires_Short.csv
+├── www/
+└── wildfire-shiny-app.Rproj
+
+---
 
 Wildfire-Shiny-App/
