@@ -83,13 +83,16 @@ Future versions of this application could include:
 
 ---
 
-wildfire-shiny-app/
+```
+wildfire-app/
 │
 ├── app.R
 ├── data/
 │   └── Fires_Short.csv
 ├── www/
-└── wildfire-shiny-app.Rproj
+│   └── style.css
+└── README.md
+```
 
 ---
 
